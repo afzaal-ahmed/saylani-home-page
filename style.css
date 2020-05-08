@@ -355,6 +355,17 @@ footer{
     font-size: 11pt;
 }
 
-.fas{
-    color: #427900;
+.foot_icon img{
+    width: 40px;
+    margin-right: 10px;
+}
+
+.bottom_bar{
+    background-color: #316dc3;
+    color: #fff;
+    padding-top: 5px;
+}
+
+.bottom_bar .container {
+    padding: 0px;
 }
